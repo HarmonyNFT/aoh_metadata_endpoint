@@ -137,7 +137,7 @@
 
             "name":"Tempestas, Goddess of Thunder",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmXYy4e7EjyLjR8vvyeQ4kWXjngiwFcmK64Qn97cmi7en3/Tempestas%2Cthunder_godess.png",
+            "image":"ipfs://QmTYgBw4a7K1LWvjB5QsxByL2WgRKN8hnrzZpb3ifonkAm/Tempestas%2Cthunder_godess.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Legendary rare"},
