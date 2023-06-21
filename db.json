@@ -69,22 +69,22 @@
     {
          "id":3,
 
-            "name":"Pebble Seeker",
-            "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmaoAWz14Q4rdCCbX5L85Ww8dzyjH46PeEgvj3CMoL4Cpm/Pebble_Seeker.png",
+            "name":"Cirsyt, Crystal Dragon",
+            "description":"Aspect of Harmony Ingame card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmUYtPkF8x5dwDRZ5zR2rTtcJijoCYxmMJBkdWvExPgyDT/Cirsyt%2C%20Crystal%20Dragon.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Rare"},
+                                 "trait_type":   "rarity",  "value":"Ultra rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
                {
-                                 "trait_type":   "cost",  "value":"2 Mana"},
+                                 "trait_type":   "cost",  "value":"9 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"0"},
+                                 "trait_type":   "attack",  "value":"7"},
                {
-                                 "trait_type":   "defense",    "value":"2"},
+                                 "trait_type":   "defense",    "value":"8"},
                {
-                                 "trait_type":   "effect",    "value":"draw 1 card"}
+                                 "trait_type":   "effect",    "value":"on Play: draw 1 card. Activate: Deal 2 damage"}
                ]
          
       },
