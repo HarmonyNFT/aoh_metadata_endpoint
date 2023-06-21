@@ -47,22 +47,22 @@
     {
          "id":2,
 
-            "name":"One-Eyed Ronin",
-            "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmSKhS7M9nTRhz7tWxVkVEqSP8Su2yTFAKNGXAqGYkVMRo/One-Eyed%20Ronin.png",
+            "name":"Fire Apprentice Luciana",
+            "description":"Aspect of Harmony Ingame card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmZt36GfAkdcUwGFkaw3BjWDzGhSRwkHiU55TmqZDsEZ4W/Fire%20Apprentice%20Luciana.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Rare"},
+                                 "trait_type":   "rarity",  "value":"Ultra rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
                {
-                                 "trait_type":   "cost",  "value":"3 Mana"},
+                                 "trait_type":   "cost",  "value":"4 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"1"},
+                                 "trait_type":   "attack",  "value":"3"},
                {
                                  "trait_type":   "defense",    "value":"3"},
                {
-                                 "trait_type":   "effect",    "value":"deal 1 damage to an opponent card"}
+                                 "trait_type":   "effect",    "value":"on Play: Deal 3 damage"}
                ]
          
       },
