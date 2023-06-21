@@ -40,7 +40,7 @@
                {
                                  "trait_type":   "defense",    "value":"7"},
                {
-                                 "trait_type":   "effect",    "value":"Restore the health of all friendly creatures"}
+                                 "trait_type":   "effect",    "value":"on Play: Restore the health of all friendly creatures"}
                ]
          
       },
