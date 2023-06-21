@@ -3,44 +3,44 @@
       {
          "id":0,
          
-            "name":"Fiery Samurai Scout",
-            "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/bafybeiaohe7rzze4ymeujgqpmvdbp24mnvezufjogu5yqs6pvbcyocb7q4/Fiery%20Samurai%20Scout.png",
+            "name":"Lunar Princess Selen",
+            "description":"Aspect of Harmony Ingame card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmZT1NTCLt2Y8owTKuPS31bHszDyeLef6DZR5kDRVWeotJ/Lunar%20Princess%20Selen.png",
              "attributes":[
 {
-                  "trait_type":   "rarity",  "value":"Common"},
+                  "trait_type":   "rarity",  "value":"Legendary rare"},
 {
                   "trait_type":   "card-type",  "value":"Monster"},
 {
-                  "trait_type":   "cost",  "value":"2 Mana"},
+                  "trait_type":   "cost",  "value":"8 Mana"},
 {
-                  "trait_type":   "attack",  "value":"2"},
+                  "trait_type":   "attack",  "value":"6"},
 {
-                  "trait_type":   "defense",    "value":"2"},
+                  "trait_type":   "defense",    "value":"6"},
 {
-                  "trait_type":   "effect",    "value":"no effect"}
+                  "trait_type":   "effect",    "value":"on Play: Return 1 spell from the graveyard to your hand"}
 ]
        
       },
       {
          "id":1,
 
-            "name":"Skeleton",
-            "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmcFRrtk84UdtkvBCp19PxPuPRutdHVWD8VQ4wQrZUaQbu/Skeleton.png",
+            "name":"Maki the Saint",
+            "description":"Aspect of Harmony Ingame card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmZT1NTCLt2Y8owTKuPS31bHszDyeLef6DZR5kDRVWeotJ/Maki%20the%20Saint.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Common"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
                {
-                                 "trait_type":   "cost",  "value":"1 Mana"},
+                                 "trait_type":   "cost",  "value":"8 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"1"},
+                                 "trait_type":   "attack",  "value":"7"},
                {
-                                 "trait_type":   "defense",    "value":"1"},
+                                 "trait_type":   "defense",    "value":"7"},
                {
-                                 "trait_type":   "effect",    "value":"no effect"}
+                                 "trait_type":   "effect",    "value":"Restore the health of all friendly creatures"}
                ]
          
       },
