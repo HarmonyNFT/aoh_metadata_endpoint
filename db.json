@@ -351,7 +351,7 @@
                                    {
                                       "trait_type":   "Element",  "value":"Thunder"},
                  {
-                                   "trait_type":   "cost",  "value":"1 Mana"},
+                                   "trait_type":   "cost",  "value":"2 Mana"},
                  {
                                    "trait_type":   "attack",  "value":"-"},
                  {
@@ -385,7 +385,6 @@
                    ]
              
           }
-     ]
    ]
 }
 
