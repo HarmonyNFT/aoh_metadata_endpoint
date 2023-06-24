@@ -336,7 +336,56 @@
                                  "trait_type":   "effect",    "value":"Activate: Deal 10 damage to an enemy creature, this creature can not attack this turn "}
                ]
          
-      }
+      },
+      {
+           "id":14,
+  
+              "name":"Lightning Bolt",
+              "description":"Aspect of Harmony Ingame Card",
+              "image":"https://ipfs.thirdwebcdn.com/ipfs/QmZeDUsqpLDL8HUzPdDnLMLoSQXUm7twMfw3TvSKvyBjV7/Lightning%20Bolt.png",
+              "attributes":[
+                 {
+                                   "trait_type":   "rarity",  "value":"Common"},
+                 {
+                                   "trait_type":   "card-type",  "value":"Spell"},
+                                   {
+                                      "trait_type":   "Element",  "value":"Thunder"},
+                 {
+                                   "trait_type":   "cost",  "value":"1 Mana"},
+                 {
+                                   "trait_type":   "attack",  "value":"-"},
+                 {
+                                   "trait_type":   "defense",    "value":"-"},
+                 {
+                                   "trait_type":   "effect",    "value":"on Play: Deal 2 damage"}
+                 ]
+           
+        },
+        {
+             "id":15,
+    
+                "name":"Lightning Rush",
+                "description":"Aspect of Harmony Ingame Card",
+                "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVJ3eCpmnuusYQwVGhhJArLp4koSukBHyqUsZxpoHJB3g/Lightning%20Rush%20.png",
+                "attributes":[
+                   {
+                                     "trait_type":   "rarity",  "value":"Common"},
+                   {
+                                     "trait_type":   "card-type",  "value":"Spell"},
+                                     {
+                                        "trait_type":   "Element",  "value":"Thunder"},
+                   {
+                                     "trait_type":   "cost",  "value":"2 Mana"},
+                   {
+                                     "trait_type":   "attack",  "value":"-"},
+                   {
+                                     "trait_type":   "defense",    "value":"-"},
+                   {
+                                     "trait_type":   "effect",    "value":"on Play: Give all friendly thunder creatures +1/0 and Haste"}
+                   ]
+             
+          }
+     ]
    ]
 }
 
