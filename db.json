@@ -11,6 +11,8 @@
                   "trait_type":   "rarity",  "value":"Legendary rare"},
 {
                   "trait_type":   "card-type",  "value":"Monster"},
+                  {
+                     "trait_type":   "Element",  "value":"Light"},
 {
                   "trait_type":   "cost",  "value":"8 Mana"},
 {
@@ -33,6 +35,8 @@
                                  "trait_type":   "rarity",  "value":"Common"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Light"},
                {
                                  "trait_type":   "cost",  "value":"8 Mana"},
                {
@@ -55,6 +59,8 @@
                                  "trait_type":   "rarity",  "value":"Ultra rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Fire"},
                {
                                  "trait_type":   "cost",  "value":"4 Mana"},
                {
@@ -77,6 +83,8 @@
                                  "trait_type":   "rarity",  "value":"Ultra rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Rock"},
                {
                                  "trait_type":   "cost",  "value":"9 Mana"},
                {
@@ -91,22 +99,24 @@
     {
          "id":4,
 
-            "name":"Razor",
+            "name":"Pebble Seeker",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVqZ159oBSTEZg8aqx77o3p9uquTYEUbKYHvwLLGiym9v/Razor.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/Qmai6mWe1jfs1MMaky91z6ET9dUMRDzdDxP7Vi4UYFjicC/Pebble%20Seeker.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
+             {
+                                    "trait_type":   "Element",  "value":"Rock"},
                {
-                                 "trait_type":   "cost",  "value":"3 Mana"},
+                                 "trait_type":   "cost",  "value":"2 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"2"},
+                                 "trait_type":   "attack",  "value":"1"},
                {
-                                 "trait_type":   "defense",    "value":"3"},
+                                 "trait_type":   "defense",    "value":"1"},
                {
-                                 "trait_type":   "effect",    "value":"deal 1 damage to an opponent card"}
+                                 "trait_type":   "effect",    "value":"on Play: draw 1 card"}
                ]
          
       },
