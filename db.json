@@ -220,22 +220,24 @@
   {
          "id":9,
 
-            "name":"Aria, Thunder Arrow",
+            "name":"Lightning Tiger Elarak",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVAiwUeShuMCNVMcppdBQj97reCdVWWELgznUZSqxwaPg/Aria%2CThunder%20Arrow.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmXMMBAmLfLvq8EkHJL427rPRMEVqanaBJhboCVoFvPauT/Lightning%20Tiger%20Elarak.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Rare"},
                {
                                  "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Thunder"},
                {
-                                 "trait_type":   "cost",  "value":"3 Mana"},
+                                 "trait_type":   "cost",  "value":"5 Mana"},
                {
                                  "trait_type":   "attack",  "value":"3"},
                {
-                                 "trait_type":   "defense",    "value":"2"},
+                                 "trait_type":   "defense",    "value":"5"},
                {
-                                 "trait_type":   "effect",    "value":"deal 1 damage to an opponent card"}
+                                 "trait_type":   "effect",    "value":"on Play: Destroy an enemy creature with 4 or less attack. If you do, gain +3 attack"}
                ]
          
       }
