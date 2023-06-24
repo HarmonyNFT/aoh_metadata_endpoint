@@ -120,8 +120,32 @@
                ]
          
       },
-    {
+      {
          "id":5,
+
+            "name":"Crystalize",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"-",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Ultra rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Rock"},
+               {
+                                 "trait_type":   "cost",  "value":"6 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"4"},
+               {
+                                 "trait_type":   "defense",    "value":"6"},
+               {
+                                 "trait_type":   "effect",    "value":"Provoke, Barrier"}
+               ]
+         
+      },
+    {
+         "id":6,
 
             "name":"Earth Lizard Reno",
             "description":"Aspect of Harmony Ingame Card",
@@ -145,7 +169,7 @@
          
       },
     {
-         "id":6,
+         "id":7,
 
             "name":"Final Impact",
             "description":"Aspect of Harmony Ingame Card",
@@ -169,7 +193,7 @@
          
       },
   {
-         "id":7,
+         "id":8,
 
             "name":"Razor",
             "description":"Aspect of Harmony Ingame Card",
@@ -193,7 +217,7 @@
          
       },
   {
-         "id":8,
+         "id":9,
 
             "name":"Fiery Samurai Scout",
             "description":"Aspect of Harmony Ingame Card",
@@ -218,7 +242,7 @@
       },
 
   {
-         "id":9,
+         "id":10,
 
             "name":"Lightning Tiger Elarak",
             "description":"Aspect of Harmony Ingame Card",
