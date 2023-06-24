@@ -123,88 +123,96 @@
     {
          "id":5,
 
-            "name":"Final Impact",
+            "name":"Earth Lizard Reno",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmPfeaaKbuK4dPQmVf1Fj5SMs82AZUt4T5mcFTdcJB4Lur/Final%20Impact.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmdRd9gGMfXVqLhPotC9JXEM9L1gZFFUHfsDihzm6ssATT/Earth%20Lizard%20Reno.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Legendary rare"},
+                                 "trait_type":   "rarity",  "value":"Ultra rare"},
                {
-                                 "trait_type":   "card-type",  "value":"Spell"},
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Rock"},
                {
-                                 "trait_type":   "cost",  "value":"7 Mana"},
+                                 "trait_type":   "cost",  "value":"6 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"-"},
+                                 "trait_type":   "attack",  "value":"4"},
                {
-                                 "trait_type":   "defense",    "value":"-"},
+                                 "trait_type":   "defense",    "value":"6"},
                {
-                                 "trait_type":   "effect",    "value":"destroy all cards on the field"}
+                                 "trait_type":   "effect",    "value":"Provoke, Barrier"}
                ]
          
       },
     {
          "id":6,
 
-            "name":"Tempestas, Goddess of Thunder",
+            "name":"Final Impact",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"ipfs://QmTYgBw4a7K1LWvjB5QsxByL2WgRKN8hnrzZpb3ifonkAm/Tempestas%2Cthunder_godess.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/Qmf7XepcvHG1nPGKA8r7rn4Ydt6Zqf2HkfXdh17epbNkXj/Final%20Impact.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Legendary rare"},
+                                 "trait_type":   "rarity",  "value":"Common"},
                {
-                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 "trait_type":   "card-type",  "value":"Spell"},
+                                 {
+                                    "trait_type":   "Element",  "value":"-"},
                {
-                                 "trait_type":   "cost",  "value":"8 Mana"},
+                                 "trait_type":   "cost",  "value":"10 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"5"},
+                                 "trait_type":   "attack",  "value":"-"},
                {
-                                 "trait_type":   "defense",    "value":"8"},
+                                 "trait_type":   "defense",    "value":"-"},
                {
-                                 "trait_type":   "effect",    "value":"deal 2 damage to all opponent cards"}
+                                 "trait_type":   "effect",    "value":"on Play: Destroy all cards on the field"}
                ]
          
       },
   {
          "id":7,
 
-            "name":"Stormfire Sword",
+            "name":"Razor",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmeHvJt6xzdQMWgmYFBgqswNAVX44LbpXzaUmNaM4KoWBm/Stormfire%20Sword.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmXvSaQnvAHVj6otZsC397fqj7VaQvUMcGQ21b8VRbUKvR/Razor.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Epic rare"},
+                                 "trait_type":   "rarity",  "value":"Rare"},
                {
-                                 "trait_type":   "card-type",  "value":"Spell"},
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Wind"},
                {
-                                 "trait_type":   "cost",  "value":"2 Mana"},
+                                 "trait_type":   "cost",  "value":"4 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"-"},
+                                 "trait_type":   "attack",  "value":"3"},
                {
-                                 "trait_type":   "defense",    "value":"-"},
+                                 "trait_type":   "defense",    "value":"3"},
                {
-                                 "trait_type":   "effect",    "value":"give +3 attack and +2 defense to a friendly Monster"}
+                                 "trait_type":   "effect",    "value":"Haste, Barrier"}
                ]
          
       },
   {
          "id":8,
 
-            "name":"Lightning Strike",
+            "name":"Fiery Samurai Scout",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmV5GrU2hBJ1swHTwSo4wEisSn6hMQYKofqGddQtFMvhdG/Lightning%20Strike.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmNtb3YTKSqXRhZLQrg6YbanJ43rxYPnm6UCzYx8Zi3FKy/Fiery%20Samurai%20Scout.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Common"},
                {
-                                 "trait_type":   "card-type",  "value":"Spell"},
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Fire"},
                {
-                                 "trait_type":   "cost",  "value":"2 Mana"},
+                                 "trait_type":   "cost",  "value":"1 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"-"},
+                                 "trait_type":   "attack",  "value":"2"},
                {
-                                 "trait_type":   "defense",    "value":"-"},
+                                 "trait_type":   "defense",    "value":"1"},
                {
-                                 "trait_type":   "effect",    "value":"deal 3 damage to an opponent card"}
+                                 "trait_type":   "effect",    "value":"-"}
                ]
          
       },
