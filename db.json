@@ -264,6 +264,78 @@
                                  "trait_type":   "effect",    "value":"on Play: Destroy an enemy creature with 4 or less attack. If you do, gain +3 attack"}
                ]
          
+      },
+      {
+         "id":11,
+
+            "name":"Thunder Bird Komuri",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmQFYDh5HAMuP4E79d7EWaNg439ZLBdP1K4Du2x8xvPULn/Thunder%20Bird%20Komuri.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Thunder"},
+               {
+                                 "trait_type":   "cost",  "value":"1 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"1"},
+               {
+                                 "trait_type":   "defense",    "value":"2"},
+               {
+                                 "trait_type":   "effect",    "value":"on Play: Deal 1 damage to all enemy creatures"}
+               ]
+         
+      },
+      {
+         "id":12,
+
+            "name":"Bastion, Thunder Gundam",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmbF9F4h3oARPrebzY9CKD1mZEpvhPvRD2eVdSzYzwG8LV/Bastion%2C%20Thunder%20Gundam.png",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Common"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Thunder"},
+               {
+                                 "trait_type":   "cost",  "value":"4 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"3"},
+               {
+                                 "trait_type":   "defense",    "value":"4"},
+               {
+                                 "trait_type":   "effect",    "value":"Provoke"}
+               ]
+         
+      },
+      {
+         "id":13,
+
+            "name":"Hikaru",
+            "description":"Aspect of Harmony Ingame Card",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmV4ZPNrzjRFhSnRXxLuarifFrgv7AuxxAFezUWnLdpu6A/Hikaru.png ",
+            "attributes":[
+               {
+                                 "trait_type":   "rarity",  "value":"Legendary rare"},
+               {
+                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 {
+                                    "trait_type":   "Element",  "value":"Fire"},
+               {
+                                 "trait_type":   "cost",  "value":"9 Mana"},
+               {
+                                 "trait_type":   "attack",  "value":"8"},
+               {
+                                 "trait_type":   "defense",    "value":"8"},
+               {
+                                 "trait_type":   "effect",    "value":"Activate: Deal 10 damage to an enemy creature, this creature can not attack this turn "}
+               ]
+         
       }
    ]
 }
