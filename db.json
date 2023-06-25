@@ -648,6 +648,30 @@
                                        "trait_type":   "effect",    "value":"Aura: Deal 1 damage to all enemy creatures, every time you spawn a thunder creature"}
                      ]
                
+            },
+            {
+               "id":27,
+      
+                  "name":"Aria, Thunder Arrow",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmcnWbGQuN2quxMF4MeHQQDUtwBc8ypu2zUrnz7vucusCj/Aria%2C%20Thunder%20Arrow.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Ultra rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Thunder"},
+                     {
+                                       "trait_type":   "cost",  "value":"3 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"2"},
+                     {
+                                       "trait_type":   "defense",    "value":"3"},
+                     {
+                                       "trait_type":   "effect",    "value":"Activate(2): Deal 1 damage to all enemy creatures"}
+                     ]
+               
             }
    ]
 }
