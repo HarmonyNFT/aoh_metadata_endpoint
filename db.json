@@ -480,6 +480,126 @@
                                        "trait_type":   "effect",    "value":"Last whisper: Deal 1 damage"}
                      ]
                
+            },
+            {
+               "id":20,
+      
+                  "name":"Rolu, King of the Mountains",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmSQ91TK6om2u2UPmSmvTvHAZRoGVT3eCdpGLDH2WwJ8i8/Rolu%2C%20King%20of%20the%20Mountains.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Rock"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"Provoke, Barrier"}
+                     ]
+               
+            },
+            {
+               "id":21,
+      
+                  "name":"Death Scythe",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmSGmqyNQJimpvkxrzFsXvwj753Lg34HcL4ghKsLQN8bQu/Death%20Scythe.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Darkness"},
+                     {
+                                       "trait_type":   "cost",  "value":"3 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"2"},
+                     {
+                                       "trait_type":   "defense",    "value":"2"},
+                     {
+                                       "trait_type":   "effect",    "value":"Last whisper: Deal 1 damage to all enemy creatures"}
+                     ]
+               
+            },
+            {
+               "id":22,
+      
+                  "name":"Tempestas, Godess of Thunder",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmWTLnpmU95SK1CKF3X24wZUUrKKrhfV2K2kf5AvAtm9kw/Tempestas%2C%20Godess%20of%20Thunder.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Legendary rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Lightning"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"7"},
+                     {
+                                       "trait_type":   "defense",    "value":"7"},
+                     {
+                                       "trait_type":   "effect",    "value":"Activate(5): Deal 3 damage to all enemy creatures"}
+                     ]
+               
+            },
+            {
+               "id":23,
+      
+                  "name":"Mountainbiest Ubis",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVh4jPrrBJRdhiUioT6FEjhRfmiwR9gqwSdkHUXrvuQ88/Mountainbiest%20Ubis.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Rock"},
+                     {
+                                       "trait_type":   "cost",  "value":"6 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"6"},
+                     {
+                                       "trait_type":   "defense",    "value":"7"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":24,
+      
+                  "name":"Overcharge",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmapT3TtULXuf7ArY3n5XW5JcLsjYtomBxCfMNRAmtgA9e/Overcharge.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Spell"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Thunder"},
+                     {
+                                       "trait_type":   "cost",  "value":"2 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"-"},
+                     {
+                                       "trait_type":   "defense",    "value":"-"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Give all friendly thunder creatures +1/0 and Barrier"}
+                     ]
+               
             }
    ]
 }
