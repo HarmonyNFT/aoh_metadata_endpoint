@@ -600,6 +600,54 @@
                                        "trait_type":   "effect",    "value":"on Play: Give all friendly thunder creatures +1/0 and Barrier"}
                      ]
                
+            },
+            {
+               "id":25,
+      
+                  "name":"Storm Domain",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmU4zsaRL8oP7V3QStJwwvigjg3piN3uqsHakJHzyH4ALV/Storm%20Domain%20.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Ultra rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Artifact"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"3 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"0"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"Aura: Give all friendly wind creatures +1/1"}
+                     ]
+               
+            },
+            {
+               "id":26,
+      
+                  "name":"Thunder Domain",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmeycwwP5ZuuuFo8juMBCFXG62k49nZaoWCfWo65W8QRsX/Thunder%20Domain.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Ultra rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Artifact"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Thunder"},
+                     {
+                                       "trait_type":   "cost",  "value":"3 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"0"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"Aura: Deal 1 damage to all enemy creatures, every time you spawn a thunder creature"}
+                     ]
+               
             }
    ]
 }
