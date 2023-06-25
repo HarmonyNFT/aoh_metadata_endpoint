@@ -672,6 +672,78 @@
                                        "trait_type":   "effect",    "value":"Activate(2): Deal 1 damage to all enemy creatures"}
                      ]
                
+            },
+            {
+               "id":28,
+      
+                  "name":"Stormdragon Cimentar",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmQH1e5Znzp2FABHAr9ER6iiHwpTA3QgzZG6ppfomg7XSW/Stormdragon%20Cimentar.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Legendary rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"7 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Return all creatures to its owner's hand"}
+                     ]
+               
+            },
+            {
+               "id":29,
+      
+                  "name":"Burning Soul Arriel",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmRmLbrYDwAoZxnZfUUW5nW3J5xMjKqJouaWSY3614LsCK/Burning%20Soul%20Arriel.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Spell"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"5 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"-"},
+                     {
+                                       "trait_type":   "defense",    "value":"-"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Destroy an enemy creature"}
+                     ]
+               
+            },
+            {
+               "id":30,
+      
+                  "name":"Ember Sword Slayer",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmR8k9Zd2gUiHUqFPy9hykaX4J69zB89aBvyubq87q7LYo/Ember%20Sword%20Slayer.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Legendary rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"6 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"5"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Deal 3 damage or give yourself +2/2"}
+                     ]
+               
             }
    ]
 }
