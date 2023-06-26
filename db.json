@@ -816,6 +816,78 @@
                                        "trait_type":   "effect",    "value":"on Play: Destroy an enemy creature with 3 or less attack. If you do, get +2/2"}
                      ]
                
+            },
+            {
+               "id":34,
+      
+                  "name":"Emissary of Fire",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmV3nRzKvw5QAMEfz9t8Jqf2PQRV5JwJFfXQ7ZtXtQZ96Y/Emissary%20of%20Fire.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Spell"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"4 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"0"},
+                     {
+                                       "trait_type":   "defense",    "value":"0"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Give a friendly fire creature +3/3"}
+                     ]
+               
+            },
+            {
+               "id":35,
+      
+                  "name":"Wand of eternal Flames",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmeJwja6L7ty4ABExNpCBXyUSJpffvv9p9sT57txi1qucg/Wand_of_eternal_Flames.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Spell"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"2 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"0"},
+                     {
+                                       "trait_type":   "defense",    "value":"0"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Give a friendly fire creature +1/1 and deal 1 damage"}
+                     ]
+               
+            },
+            {
+               "id":36,
+      
+                  "name":"Glaucus",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmdL1CWmVnEgvBtgKQEhPLEjDp3QTbdXSZ1s5pQeaUM7HU/Glaucus.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"6 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"5"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Return 1 enemy creature to the hand"}
+                     ]
+               
             }
    ]
 }
