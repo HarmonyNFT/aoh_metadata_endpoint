@@ -92,7 +92,10 @@
                {
                                  "trait_type":   "defense",    "value":"8"},
                {
-                                 "trait_type":   "effect",    "value":"on Play: Draw 1 card. Activate: Deal 2 damage"}
+                                 "trait_type":   "effect",    "value":"on Play: Draw 1 card"},
+                                 {
+                                    "trait_type":   "effect",    "value":"Activate: Deal 2 damage"}
+                                 
                ]
          
       },
@@ -140,7 +143,9 @@
                {
                                  "trait_type":   "defense",    "value":"6"},
                {
-                                 "trait_type":   "effect",    "value":"Provoke, Barrier"}
+                                 "trait_type":   "effect",    "value":"Provoke"},
+                                 {
+                                    "trait_type":   "effect",    "value":"Barrier"}
                ]
          
       },
@@ -163,8 +168,10 @@
                                  "trait_type":   "attack",  "value":"4"},
                {
                                  "trait_type":   "defense",    "value":"6"},
-               {
-                                 "trait_type":   "effect",    "value":"Provoke, Barrier"}
+                                 {
+                                    "trait_type":   "effect",    "value":"Provoke"},
+                                    {
+                                       "trait_type":   "effect",    "value":"Barrier"}
                ]
          
       },
@@ -211,8 +218,10 @@
                                  "trait_type":   "attack",  "value":"3"},
                {
                                  "trait_type":   "defense",    "value":"3"},
-               {
-                                 "trait_type":   "effect",    "value":"Haste, Barrier"}
+                                 {
+                                    "trait_type":   "effect",    "value":"Haste"},
+                                    {
+                                       "trait_type":   "effect",    "value":"Barrier"}
                ]
          
       },
@@ -318,7 +327,7 @@
 
             "name":"Hikaru",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmV4ZPNrzjRFhSnRXxLuarifFrgv7AuxxAFezUWnLdpu6A/Hikaru.png",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmQb1zidDyUr5sTh97JWjC44xwaHmLAwgpTveWGoAAtXAg/Hikaru.png",
             "attributes":[
                {
                                  "trait_type":   "rarity",  "value":"Legendary rare"},
@@ -329,11 +338,11 @@
                {
                                  "trait_type":   "cost",  "value":"9 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"8"},
+                                 "trait_type":   "attack",  "value":"2"},
                {
                                  "trait_type":   "defense",    "value":"8"},
                {
-                                 "trait_type":   "effect",    "value":"Activate: Deal 10 damage to an enemy creature, this creature can not attack this turn"}
+                                 "trait_type":   "effect",    "value":"Activate(10): Deal 10 damage to an enemy creature, this creature can not attack this turn"}
                ]
          
       },
@@ -500,8 +509,10 @@
                                        "trait_type":   "attack",  "value":"8"},
                      {
                                        "trait_type":   "defense",    "value":"8"},
-                     {
-                                       "trait_type":   "effect",    "value":"Provoke, Barrier"}
+                                       {
+                                          "trait_type":   "effect",    "value":"Provoke"},
+                                          {
+                                             "trait_type":   "effect",    "value":"Barrier"}
                      ]
                
             },
@@ -886,6 +897,320 @@
                                        "trait_type":   "defense",    "value":"5"},
                      {
                                        "trait_type":   "effect",    "value":"on Play: Return 1 enemy creature to the hand"}
+                     ]
+               
+            },
+            {
+               "id":37,
+      
+                  "name":"Bolt, Dark Lightning",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs..thirdwebcdn.com/ipfs/QmZk1nPHyXVrE9jUngexxY9o2fkuBgA3e34fZbuYP48uUW/Bolt%2C%20Dark%20Lightning.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Ultra rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Thunder"},
+                     {
+                                       "trait_type":   "cost",  "value":"4 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"4"},
+                     {
+                                       "trait_type":   "defense",    "value":"4"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Deal 1 damage to all enemy creatures"}
+                     ]
+               
+            },
+            {
+               "id":38,
+      
+                  "name":"Voodoohag",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmTMg3xBGRXKKUd4nPxQWEEwDkDgYhKPCzamcMZV6R3pzP/Voodoohag.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Standard"},
+                     {
+                                       "trait_type":   "cost",  "value":"6 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"4"},
+                     {
+                                       "trait_type":   "defense",    "value":"6"},
+                     {
+                                       "trait_type":   "effect",    "value":"Aura: Reduce the attack of all enemy creatures by 1"}
+                     ]
+               
+            },
+            {
+               "id":39,
+      
+                  "name":"Aeleis the humble",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmURakGnzssxDkHgtxGGaQiSfBR52NuPbr9JXMkNNy2pkf/Aeleis%20the%20humble.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Standard"},
+                     {
+                                       "trait_type":   "cost",  "value":"5 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"6"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":40,
+      
+                  "name":"Incendius",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmaD5TVnA28MRieyUQqQwe4eJ1VX1fsxpVTcJRiPMicA4q/Incendius.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Ultra rare"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"5 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"2"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Deal 3 damage"}
+                     ]
+               
+            },
+            {
+               "id":41,
+      
+                  "name":"Dudley",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmQ7UWjdL7XPmDocYW5cSQn65xZuUNugkf9Mt3cdLEoW57/Dudley.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"1 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"1"},
+                     {
+                                       "trait_type":   "defense",    "value":"1"},
+                     {
+                                       "trait_type":   "effect",    "value":"Barrier"}
+                     ]
+               
+            },
+            {
+               "id":42,
+      
+                  "name":"Mold, fire Phantom",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmcYBwewe3bGXLMYGKUg8VkTM36sMPBqsV7iZiv3U5YRnt/Mold%2C%20fire%20Phantom.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Fire"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":43,
+      
+                  "name":"Salana, Bird of Hope",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmZqM9wtTwshnCd2yZyexwJ6T3tngAj5xa9cVdZziTRNrY/Salana%2C%20Bird%20of%20Hope.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":44,
+      
+                  "name":"Barbbug",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmVmRAVZa2eFkWtBYrycBXC9Sd37oZHbGHSBGWHYc1PxJQ/Barbbug.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Rock"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":45,
+      
+                  "name":"Zaghenud",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmdAid3Jgms6ep9M14eMzRDCUiTJjCvT37PwZCXGkqDxxA/Zaghenud.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Rock"},
+                     {
+                                       "trait_type":   "cost",  "value":"8 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"8"},
+                     {
+                                       "trait_type":   "defense",    "value":"8"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":46,
+      
+                  "name":"Chonrek, Killer Whale",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmNMJE6u7rSsUCGne1jNZc5tUSiJ4LpsEMeiSJ2sCvoNFi/Chonrek%2C%20Killer%20Whale.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Water"},
+                     {
+                                       "trait_type":   "cost",  "value":"5 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"2"},
+                     {
+                                       "trait_type":   "defense",    "value":"4"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Destroy an enemy creature with 4 or less attack. If you do, draw a card"}
+                     ]
+               
+            },
+            {
+               "id":47,
+      
+                  "name":"Blossom",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmPFqg5ox3aG1hWAUaSWN3FHysAHGMfjGYYtxnSmZeVQFT/Blossom.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Wind"},
+                     {
+                                       "trait_type":   "cost",  "value":"2 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"1"},
+                     {
+                                       "trait_type":   "defense",    "value":"1"},
+                     {
+                                       "trait_type":   "effect",    "value":"Barrier"},
+                                       {
+                                          "trait_type":   "effect",    "value":"on Play: draw a card"}
+                     ]
+               
+            },
+            {
+               "id":48,
+      
+                  "name":"Caveling",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmXN5knwWkrGaLbF3aQv1YZmsQ9VdmMWsXkR2Xj7Wq4GoB/Caveling.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Monster"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Rock"},
+                     {
+                                       "trait_type":   "cost",  "value":"4 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"4"},
+                     {
+                                       "trait_type":   "defense",    "value":"5"},
+                     {
+                                       "trait_type":   "effect",    "value":"-"}
+                     ]
+               
+            },
+            {
+               "id":49,
+      
+                  "name":"Heart of a Lion",
+                  "description":"Aspect of Harmony Ingame Card",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmWfP8Gvs2ApXmHDMNp8wj3t3f9aegi8KzhhSxNFpUGiL1/Heart%20of%20a%20Lion.png",
+                  "attributes":[
+                     {
+                                       "trait_type":   "rarity",  "value":"Common"},
+                     {
+                                       "trait_type":   "card-type",  "value":"Spell"},
+                                       {
+                                          "trait_type":   "Element",  "value":"Standard"},
+                     {
+                                       "trait_type":   "cost",  "value":"5 Mana"},
+                     {
+                                       "trait_type":   "attack",  "value":"-"},
+                     {
+                                       "trait_type":   "defense",    "value":"-"},
+                     {
+                                       "trait_type":   "effect",    "value":"on Play: Give all friendly creatures +2/2"}
                      ]
                
             }
