@@ -128,24 +128,22 @@
 
             "name":"Crystalize",
             "description":"Aspect of Harmony Ingame Card",
-            "image":"-",
+            "image":"https://ipfs.thirdwebcdn.com/ipfs/QmWmwuW3xd8XpNvijoBsfMircxax7DcyYsRN1JnB7gbizR/Crystallize.png",
             "attributes":[
                {
-                                 "trait_type":   "rarity",  "value":"Ultra rare"},
+                                 "trait_type":   "rarity",  "value":"Rare"},
                {
-                                 "trait_type":   "card-type",  "value":"Monster"},
+                                 "trait_type":   "card-type",  "value":"Spell"},
                                  {
                                     "trait_type":   "Element",  "value":"Rock"},
                {
-                                 "trait_type":   "cost",  "value":"6 Mana"},
+                                 "trait_type":   "cost",  "value":"5 Mana"},
                {
-                                 "trait_type":   "attack",  "value":"4"},
+                                 "trait_type":   "attack",  "value":"-"},
                {
-                                 "trait_type":   "defense",    "value":"6"},
+                                 "trait_type":   "defense",    "value":"-"},
                {
-                                 "trait_type":   "effect",    "value":"Provoke"},
-                                 {
-                                    "trait_type":   "effect",    "value":"Barrier"}
+                                 "trait_type":   "effect",    "value":"on Play: Give all friendly rock creatures +3 attack"}
                ]
          
       },
