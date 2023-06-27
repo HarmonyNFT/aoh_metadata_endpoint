@@ -1211,6 +1211,15 @@
                                        "trait_type":   "effect",    "value":"on Play: Give all friendly creatures +2/2"}
                      ]
                
+            },
+            {
+               "id":50,
+      
+                  "name":"Not revealed",
+                  "description":"Yet to be reveleaded!",
+                  "image":"https://ipfs.thirdwebcdn.com/ipfs/QmdwG7egof4pu3evUmm1marLkrDP4CHnyHWXVwGQk7NNDG/Game%20Launcher%20-%20Logo%20with%20Shadow%20Small.png",
+                  "attributes":[ ]
+               
             }
    ]
 }
